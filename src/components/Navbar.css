@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    padding: 20px 30px;
+}
+
+.navbar .menu-items {
+    width: 200px;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar .menu-items li {
+    border: 1px solid #dbd0d0;
+    border-radius: 7px;
+    padding: 5px 10px;
+    opacity: .8;
+}
+
+.logo-image {
+    width: 50px;
+    height: 32px;
+}
+
+.logo h1 {
+    font-family: 'Cedarville Cursive', cursive;
+}

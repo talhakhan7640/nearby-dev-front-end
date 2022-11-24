@@ -1,0 +1,57 @@
+.register { 
+    justify-content: start;
+    height: 100vh;
+    /* width: 60%; */
+    /* border: 1px solid rgb(168, 161, 161); */
+    border: 1px solid #31373D;
+/* background: #171A22; */
+background-image: url("..//images/planet.webp");
+background-position: right -600px top;
+/* font-family: 'Nixie One', cursive; */
+font-family: 'Raleway', sans-serif;
+}
+
+.slogan {
+    line-height: 59px;
+    margin-top: 23%;
+     font-family: 'Nixie One', cursive;
+}
+
+
+.form-section {
+    padding: 10px 20px ;
+    background-color: #171A23;
+    width: 47%;
+    border-radius: 7px;
+    border: 1px solid #30373C;
+    margin-top: 4%;
+}
+
+.registration-form input{
+    width: 100%;
+    background-color: transparent;
+    outline: none;
+    color: white;
+    font-size: 14px;
+}
+
+.signup-button {
+    font-size: 14px;
+    background-color: transparent;
+    border: 1px solid #30373C;
+    color: white;
+    border-radius: 7px;
+    letter-spacing: 1px;
+}
+
+.form-group {
+    display: flex;
+    align-items: center;
+    color: white;
+    border-bottom: 1px solid #30373C;
+}
+
+.terminal-arrow {
+    font-size: 18px;
+    margin-top: 2.5%;
+}
