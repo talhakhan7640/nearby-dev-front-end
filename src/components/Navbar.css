@@ -19,6 +19,7 @@
     border-radius: 7px;
     padding: 5px 10px;
     opacity: .8;
+    font-size: 14px
 }
 
 .logo-image {
@@ -28,4 +29,8 @@
 
 .logo h1 {
     font-family: 'Cedarville Cursive', cursive;
+}
+.or {
+    font-size: 14px;
+    font-weight: bold
 }

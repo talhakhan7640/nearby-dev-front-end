@@ -17,7 +17,7 @@ const Navbar = () => {
           </Link>
 
           <span className="or">OR</span>
-          <Link to="/login">
+          <Link to="/users/login">
             <li>Login</li>
           </Link>
         </ul>
